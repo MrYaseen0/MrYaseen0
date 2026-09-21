@@ -92,7 +92,14 @@
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://yaseenahmadexe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yaseenahmadexe-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/MrYaseen0"><img src="https://img.shields.io/badge/GitHub-MrYaseen0-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yaseen-ahmad-489967280"><img src="https://img.shields.io/badge/LinkedIn-Yaseen_Ahmad-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+<p align="center">
+  <a href="https://x.com/yaseencecosian"><img src="https://img.shields.io/badge/X-@yaseencecosian-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/yaseenahmadexe"><img src="https://img.shields.io/badge/Instagram-yaseenahmadexe-EF93C4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@mryaseen.exe"><img src="https://img.shields.io/badge/TikTok-@mryaseen.exe-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="mailto:yaseen.ahmad.bsse-2023c@cecosian.edu.pk"><img src="https://img.shields.io/badge/Email-Contact_Me-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
